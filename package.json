@@ -1,0 +1,23 @@
+{
+  "name": "1-package-example",
+  "version": "1.0.5",
+  "description": "This is my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushpendra-languify/example-package-1.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Pushpendra Upadhyay",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/pushpendra-languify/example-package-1/issues"
+  },
+  "homepage": "https://github.com/pushpendra-languify/example-package-1#readme"
+}
